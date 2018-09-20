@@ -1,0 +1,68 @@
+
+body
+{
+	
+	background-image: url(../img/星星背景图2.jpg);
+	margin:0;
+	padding: 0;
+}
+table
+{
+	margin: auto;
+	padding: 0;
+	border-spacing:0;
+}
+
+.nav
+{
+	background-color: #93bafb;
+}
+.leftNav
+{
+	border: 1px;
+	
+	background:#93BAFB;
+	/*padding: 0px 28px;*/
+}
+.rightContent
+{
+	background:#e9fbff;
+}
+.leftNav-img
+{
+	
+text-align: center;
+
+padding: 0px;
+}
+.leftNav-img>p
+{
+	margin: 0;
+	width: 100%;
+}
+.leftNav-des
+{
+	margin: 0;
+	padding: 0px 10px;
+}
+.leftNav-des>p
+{
+	margin: 0;
+	padding: 15px 0;
+	color:#06184a;
+}
+
+
+
+.rightContent
+{
+	background-image: url(../img/背景小人图.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	padding: 40px 0 0 40px;
+}
+
+.rightContent>a
+{
+	font-size:26px ;
+}
